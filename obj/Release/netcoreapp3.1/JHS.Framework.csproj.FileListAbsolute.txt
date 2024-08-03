@@ -1,0 +1,8 @@
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Release\netcoreapp3.1\JHS.Framework.deps.json
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Release\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Release\netcoreapp3.1\JHS.Framework.pdb
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Release\netcoreapp3.1\JHS.Framework.csprojAssemblyReference.cache
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Release\netcoreapp3.1\JHS.Framework.AssemblyInfoInputs.cache
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Release\netcoreapp3.1\JHS.Framework.AssemblyInfo.cs
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Release\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Release\netcoreapp3.1\JHS.Framework.pdb

@@ -1,0 +1,19 @@
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.deps.json
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.pdb
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.csprojAssemblyReference.cache
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.AssemblyInfoInputs.cache
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.AssemblyInfo.cs
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.pdb
+D:\JhsProg\Dev\C#\.NET Core\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.csproj.CoreCompileInputs.cache
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.deps.json
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\bin\Debug\netcoreapp3.1\JHS.Framework.pdb
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.csproj.AssemblyReference.cache
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.AssemblyInfoInputs.cache
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.AssemblyInfo.cs
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.csproj.CoreCompileInputs.cache
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.dll
+D:\JhsProg\Dev\C#\DotNet\JHS.Framework\obj\Debug\netcoreapp3.1\JHS.Framework.pdb
